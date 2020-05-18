@@ -1,5 +1,5 @@
 ### machine_learning-repo
-This consists of machine learning models on various datasets such as:
+This consists of machine learning models on datasets such as:
 
 1.Heart disease dataset from kaggle
 
