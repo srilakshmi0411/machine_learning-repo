@@ -5,9 +5,11 @@ This consists of machine learning models on datasets such as:
 https://www.kaggle.com/ronitf/heart-disease-uci
 
 2.Bulldozer dataset from kaggle
+https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
 3.Dog breed identification dataset from kaggle
 https://www.kaggle.com/c/dog-breed-identification/data?select=test
 
 4.Iris species dataset from kaggle
+https://www.kaggle.com/uciml/iris
 
