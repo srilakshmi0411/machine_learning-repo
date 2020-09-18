@@ -1,4 +1,4 @@
-### machine_learning-repo
+# machine_learning-repo
 This consists of machine learning models on datasets such as:
 
 1.Heart disease dataset from kaggle
