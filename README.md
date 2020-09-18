@@ -1,12 +1,15 @@
 ###  𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕠𝕟 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 
 This consists of machine learning models on datasets such as:
 
-1.Heart disease dataset from kaggle
-https://www.kaggle.com/ronitf/heart-disease-uci
+📌***Heart disease predictor model***
 
-2.Dog breed identification dataset from kaggle
-https://www.kaggle.com/c/dog-breed-identification/data?select=test
+📌***Dog breed identification model using deep neural networks***
 
-3.Iris species dataset from kaggle
-https://www.kaggle.com/uciml/iris
+📌***Iris species classification model***
 
+
+Datasets available at kaggle as below links:
+
+🔗https://www.kaggle.com/ronitf/heart-disease-uci
+🔗https://www.kaggle.com/c/dog-breed-identification/data?select=test
+🔗https://www.kaggle.com/uciml/iris
