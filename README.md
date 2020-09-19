@@ -24,3 +24,26 @@
     🔗[Dog breed dataset](https://www.kaggle.com/c/dog-breed-identification/data?select=test)
 
     🔗[Iris specie dataset](https://www.kaggle.com/uciml/iris)
+    
+- 𝕋𝕠𝕠𝕝𝕤 𝕦𝕤𝕖𝕕 𝕗𝕠𝕣 𝕙𝕖𝕒𝕣𝕥 𝕕𝕚𝕤𝕖𝕒𝕤𝕖 𝕡𝕣𝕖𝕕𝕚𝕔𝕥𝕚𝕠𝕟 𝕒𝕟𝕕 𝕚𝕣𝕚𝕤 𝕤𝕡𝕖𝕔𝕚𝕖 𝕔𝕝𝕒𝕤𝕤𝕚𝕗𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𝕒𝕣𝕖 :
+
+    ✔️ Pandas
+    
+    ✔️ Matplotlib
+    
+    ✔️ Numpy
+    
+    ✔️ Sklearn
+    
+    ✔️ Jupyter Notebook
+    
+    ✔️ Seaborn
+    
+    ✔️ Random Forest Classifier 
+    
+    ✔️ Linear SVC 
+    
+    ✔️ Kneighbors Classifier
+    
+    ✔️ Metrics (Confusion Matrix, Classification Report, Correlation matrix, Accuracy Score, ROC Curve, ROC-AUC Curve)
+ 
