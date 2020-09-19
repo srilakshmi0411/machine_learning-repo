@@ -1,5 +1,6 @@
 - 𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕠𝕟 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘
 
+Click on the following icons to view project notebook 
 
  [![Heart disease prediction][3.2]][3]  [![Dog breed identification][2.2]][2]   [![Iris specie classification ][1.2]][1]
   
@@ -46,4 +47,27 @@
     ✔️ Kneighbors Classifier
     
     ✔️ Metrics (Confusion Matrix, Classification Report, Correlation matrix, Accuracy Score, ROC Curve, ROC-AUC Curve)
+    
+ - 𝕋𝕠𝕠𝕝𝕤 𝕦𝕤𝕖𝕕 𝕗𝕠𝕣 𝕕𝕠𝕘 𝕓𝕣𝕖𝕖𝕕 𝕚𝕕𝕖𝕟𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕚𝕠𝕟 𝕒𝕣𝕖 :
+  
+    ✔️ Google Colab
+    
+    ✔️ Tensorflow
+    
+    ✔️ Tensorflow Hub
+    
+    ✔️ Transfer Learning
+    
+    ✔️ MobileNetV2 Architecture 
+    
+    ✔️ Keras Sequential Model
+    
+    ✔️ Early Stopping
+    
+    ✔️ Adam Optimizer
+    
+    ✔️ Data Augmentation
+    
+    ✔️ Convolution Neural Networks
+    
  
