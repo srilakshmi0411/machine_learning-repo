@@ -1,11 +1,11 @@
 - **My Projects on Machine Learning & Deep Learning**
 
 
-  - 📌**Heart disease predictor model**
+  - 📌 **Heart disease predictor model**
 
-  - 📌**Dog breed identification model using deep neural networks**
+  - 📌 **Dog breed identification model using deep neural networks**
 
-  - 📌**Iris species classification model**
+  - 📌 **Iris species classification model**
   
   
 - **Datasets available at kaggle as below links:**
