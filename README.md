@@ -1,7 +1,7 @@
 - **My Projects on Machine Learning & Deep Learning**
 
 
-  - 📌 [Heart disease predictor model] (https://github.com/srilakshmi0411/machine_learning-repo/blob/master/Dog_predictor.ipynb)
+  - 📌**Heart disease predictor model**
 
   - 📌**Dog breed identification model using deep neural networks**
 
