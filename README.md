@@ -1,4 +1,4 @@
-####  ▄▀▄▀▄▀▄▀ My Projects on Machine Learning & Deep Learning ▄▀▄▀▄▀▄▀
+#### ** My Projects on Machine Learning & Deep Learning **
 
 This consists of machine learning models on datasets such as:
 
@@ -11,8 +11,8 @@ This consists of machine learning models on datasets such as:
 
 Datasets available at kaggle as below links:
 
-🔗https://www.kaggle.com/ronitf/heart-disease-uci
+🔗[Heart disease dataset](https://www.kaggle.com/ronitf/heart-disease-uci)
 
-🔗https://www.kaggle.com/c/dog-breed-identification/data?select=test
+🔗[Dog breed dataset](https://www.kaggle.com/c/dog-breed-identification/data?select=test)
 
-🔗https://www.kaggle.com/uciml/iris
+🔗[Iris specie dataset](https://www.kaggle.com/uciml/iris)
