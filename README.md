@@ -1,17 +1,7 @@
 - 𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕠𝕟 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 & 𝔻𝕖𝕖𝕡 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘
 
 
-  📌 **Heart disease predictor model**
-  
-    - [![Heart disease prediction][3.2]][3]
-
-  📌 **Dog breed identification model using deep neural networks**
-  
-   - [![Dog breed identification][2.2]][2]
-
-  📌 **Iris species classification model**
-  
-  - [![Iris specie classification ][1.2]][1]
+ [![Heart disease prediction][3.2]][3]  [![Dog breed identification][2.2]][2]   [![Iris specie classification ][1.2]][1]
   
 
 <!-- Icons -->
