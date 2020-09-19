@@ -1,4 +1,5 @@
-###  𝕄𝕪 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 𝕠𝕟 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 
+####  ▄▀▄▀▄▀▄▀ My Projects on Machine Learning & Deep Learning ▄▀▄▀▄▀▄▀
+
 This consists of machine learning models on datasets such as:
 
 📌***Heart disease predictor model***
